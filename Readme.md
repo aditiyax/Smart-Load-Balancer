@@ -19,12 +19,9 @@ For Milestone 2, I extended the load balancer to include advanced queue manageme
 
 ##Performance Analysis: Detailed logs and metrics were generated for each queuing strategy, enabling thorough performance analysis. By systematically evaluating how different strategies impacted load distribution and overall system performance, I provided actionable insights to optimize operational efficiency.
 
-##Documentation and Presentation
-Complementing the technical implementation, I prioritized clear and comprehensive documentation:
 
 ##Detailed Documentation: I provided thorough documentation outlining my design decisions, setup instructions, and usage guidelines. This documentation not only serves as a reference for future enhancements but also highlights my commitment to transparency and thoroughness.
 
-##Video Screencast: A screencast video was created to accompany my submission. In this video, I explained the intricacies of the load balancer implementation, demonstrating its functionality in action while discussing the rationale behind design choices. This multimedia approach aimed to enhance understanding and underscore my ability to communicate complex technical concepts effectively.
 
 ##Conclusion
 I am excited about the prospect of contributing to innovative projects. My approach to the Intelligent Load Balancer project reflects my dedication to excellence, creativity in problem-solving, and a proactive mindset toward continuous improvement. If you find this useful and Innovative kindly reach out to me to discuss about more such different and unique use cases to solve complex problems.
