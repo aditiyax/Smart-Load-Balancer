@@ -2,6 +2,7 @@ Basically this was a small challenge that I took to try to build a smaller versi
 I tried using some different load-balancing techniques to solve this problem like the round-robin method, least connections method, etc so see how effectively does those work in my case.
 
 Here are some more details about the same :
+
 ##Approach to Design and Functionality
 In tackling Milestone 1 of the project, my primary goal was to create a load balancer that not only distributed traffic efficiently but also adapted dynamically to varying conditions. Here are key elements of my approach:
 
